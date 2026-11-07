@@ -1,7 +1,4 @@
 # Proposal for Microsoft Studios
-
-![Language](https://img.shields.io/badge/Language-Python-blue) ![Library](https://img.shields.io/badge/Library-pandas-150458) ![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange)
-
 Contributing Members: Matthew Samson, Jeff Beech, and Grace Arina
 ![image](https://user-images.githubusercontent.com/93217519/145618350-99e5d97e-3ca9-44ca-980c-59b7529f3bf7.png)
 
